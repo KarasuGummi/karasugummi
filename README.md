@@ -1,8 +1,8 @@
 ### Hey there, I'm Curtis 👋
 
-<p>I am a junior Web Developer, living in Tokyo, Japan.</p>
+<p>I am a junior Web Developer from California, currently living in Tokyo, Japan.</p>
 
-- 🌱 I’m currently working to improve my skills on Ruby, Ruby on Rails, CSS and JavaScript.
+- 🌱 I’m currently learning Kotlin and React!
 - 🏸 You'll find me playing badminton in my spare time.
 
 <p>My bootcamp projects :</p>
