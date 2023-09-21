@@ -8,8 +8,9 @@
 <p>My bootcamp projects :</p>
 
 <ul>
-  <li><a href="https://github.com/KarasuGummi/okasan_food">Okasan Food</a> : an Airbnb clone.</li>
   <li><a href="https://github.com/KarasuGummi/ontrack">OnTrack</a> : an interactive learning application with a helpful companion.</li>
+  <li><a href="https://github.com/KarasuGummi/okasan_food">Okasan Food</a> : an Airbnb clone to connect users with homecooked food by local mothers.</li>
+  <li><a href="https://github.com/KarasuGummi/rails-watch-list">Anime Watch List</a> : a simple application to create lists and bookmark shows.</li>
 </ul>
 
 
