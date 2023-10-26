@@ -23,8 +23,8 @@
 ```javascript
 const curtisLu = {
   availableForHire: true,
-  education: "Le Wagon Paris, a 24-week part-time intensive coding bootcamp",
-  otherAlias: "Junior Full Stack Developer",
+  education: "Le Wagon Japan, a 24-week part-time intensive coding bootcamp",
+  otherAlias: "Full Stack Developer",
   codesIn: ["HTML", "CSS", "Ruby", "Ruby on Rails", "SQL"],
   currentlylearning: ["JavaScript ES6", "Kotlin"],
   toolsUsed: ["Visual Studio Code", "Bootstrap", "Figma", "GitHub", "Heroku", "Wordpress"],
